@@ -13,7 +13,7 @@ export default {
     return {
       chartOptions: {
         chart: {
-          type: "bar",
+          type: "column",
         },
         series: [
           {
